@@ -1,4 +1,4 @@
 # BibleVerses
 Demo project for random bible verses
 
-Contributors: Alfred Joseph, Joseph Premanand
+Start date: 6/6/2020
